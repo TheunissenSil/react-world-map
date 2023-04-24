@@ -1,0 +1,9 @@
+.world-map {
+    display: flex;
+    justify-content: center;
+}
+
+.world-map svg {
+    width: 75%;
+    height: 75%;
+}
